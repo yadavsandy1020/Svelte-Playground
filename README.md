@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
@@ -91,3 +92,7 @@ Then, from within your project folder:
 npm run build
 surge public my-project.surge.sh
 ```
+=======
+# Svelte-Playground
+This repo contains my leaning svelte
+>>>>>>> b900eeb4539627e06b488467c4a5650c7aebcbcd
